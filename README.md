@@ -1,5 +1,4 @@
-Vaja7-PWM-Nucleo
-Kontroliranje PWM z Nucleo L476RG
+# Vaja7-PWM-Nucleo
 
 <h3>Kateri pin ste omogočili, kaj se izpiše poleg pina?</h3>
 <p>Omogočila sva pin PA8. Poleg omogočenega pina se izpiše TIM1_CH1.</p>
